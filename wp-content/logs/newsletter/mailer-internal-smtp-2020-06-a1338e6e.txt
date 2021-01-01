@@ -1,0 +1,2 @@
+03-06-2020 10:22:14 - ERROR - v: 6.7.0 - m: 17,8 MB, u: 4 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+03-06-2020 10:22:26 - ERROR - v: 6.7.0 - m: 15,2 MB, u: 4 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
