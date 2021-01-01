@@ -12,7 +12,6 @@ Text Domain: sydney
 /* BUG FIX */
 html{
 	padding:0px !important;
-	display: none !important;
 }
 *>body{
 	padding-right:0px !important;
