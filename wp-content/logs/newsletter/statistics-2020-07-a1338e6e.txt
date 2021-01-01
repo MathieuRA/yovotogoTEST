@@ -1,0 +1,1 @@
+22-07-2020 20:50:03 - FATAL - v: 6.8.2 - m: 15,4 MB, u: 0 - Disk full (/tmp/#sql_2674_4.MAI); waiting for someone to free some space... (errno: 28 "No space left on device")
