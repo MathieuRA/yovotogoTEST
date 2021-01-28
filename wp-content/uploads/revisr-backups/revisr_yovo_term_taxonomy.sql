@@ -27,7 +27,7 @@ CREATE TABLE `yovo_term_taxonomy` (
 
 LOCK TABLES `yovo_term_taxonomy` WRITE;
 /*!40000 ALTER TABLE `yovo_term_taxonomy` DISABLE KEYS */;
-INSERT INTO `yovo_term_taxonomy` VALUES (1,1,'category','',0,1),(2,2,'nav_menu','',0,23),(4,4,'post_format','',0,3),(5,5,'category','',0,6),(6,6,'category','',0,38),(7,7,'category','',0,23),(8,8,'category','',0,10),(9,9,'category','',0,13),(10,10,'post_format','',0,0),(12,12,'category','',0,9),(14,14,'category','',0,30),(15,15,'category','',0,33),(16,16,'category','',0,29),(18,18,'category','',0,20),(19,19,'category','',0,9),(20,20,'category','',0,4),(21,21,'category','',0,2),(22,22,'category','',0,35),(23,23,'category','',0,5),(24,24,'category','',0,37),(25,25,'category','',0,6),(26,26,'category','',0,7),(27,27,'category','',0,1);
+INSERT INTO `yovo_term_taxonomy` VALUES (1,1,'category','',0,2),(2,2,'nav_menu','',0,23),(4,4,'post_format','',0,3),(5,5,'category','',0,6),(6,6,'category','',0,38),(7,7,'category','',0,23),(8,8,'category','',0,10),(9,9,'category','',0,13),(10,10,'post_format','',0,0),(12,12,'category','',0,9),(14,14,'category','',0,30),(15,15,'category','',0,33),(16,16,'category','',0,29),(18,18,'category','',0,20),(19,19,'category','',0,9),(20,20,'category','',0,4),(21,21,'category','',0,2),(22,22,'category','',0,35),(23,23,'category','',0,5),(24,24,'category','',0,37),(25,25,'category','',0,6),(26,26,'category','',0,7),(27,27,'category','',0,1);
 /*!40000 ALTER TABLE `yovo_term_taxonomy` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
