@@ -98,6 +98,11 @@ class Revisr_Remote {
 		if ( $get_url !== false ) {
 			$webhook = urldecode( $get_url );
 			$request = wp_remote_post( $webhook, $args );
+			var_dump(array(
+				'url encode' => $get_url,
+				'url decode' => $webhook
+			));
+			die;
 			if ( is_wp_error( $request ) ) {
 				Revisr_Admin::log( __( 'Error contacting webhook URL.', 'revisr' ), 'error' );
 			} else {
